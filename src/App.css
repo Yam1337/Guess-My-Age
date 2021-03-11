@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(255, 207, 168);
+}
+button {
+  font-size: 2vw;
+  background-color: rgb(255, 190, 137);
+  padding: 5px;
+  border-radius: 10px;
+  border-color: rgba(255, 190, 137, 0.5);
+  width: 15vw;
+  height: 7vh;
+}
+button:active {
+  transform: scale(0.95);
+}
+button:focus {
+  outline: none
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+  font-size: 5vw;
+  font-family: monospace;
+}
+.myInputs {
+  margin: 20px;
+  font-size: 2vw;
+}
+.myImage {
+  margin: 20px;
+  width: 25vw;
+}
