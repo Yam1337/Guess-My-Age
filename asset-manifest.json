@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Guess-My-Age/static/css/main.6ccb7d61.chunk.css",
+    "main.js": "/Guess-My-Age/static/js/main.8b689719.chunk.js",
+    "main.js.map": "/Guess-My-Age/static/js/main.8b689719.chunk.js.map",
+    "runtime-main.js": "/Guess-My-Age/static/js/runtime-main.7565ba0e.js",
+    "runtime-main.js.map": "/Guess-My-Age/static/js/runtime-main.7565ba0e.js.map",
+    "static/js/2.50f558b3.chunk.js": "/Guess-My-Age/static/js/2.50f558b3.chunk.js",
+    "static/js/2.50f558b3.chunk.js.map": "/Guess-My-Age/static/js/2.50f558b3.chunk.js.map",
+    "static/js/3.9d89a39a.chunk.js": "/Guess-My-Age/static/js/3.9d89a39a.chunk.js",
+    "static/js/3.9d89a39a.chunk.js.map": "/Guess-My-Age/static/js/3.9d89a39a.chunk.js.map",
+    "index.html": "/Guess-My-Age/index.html",
+    "static/css/main.6ccb7d61.chunk.css.map": "/Guess-My-Age/static/css/main.6ccb7d61.chunk.css.map",
+    "static/js/2.50f558b3.chunk.js.LICENSE.txt": "/Guess-My-Age/static/js/2.50f558b3.chunk.js.LICENSE.txt",
+    "static/media/baby-boy.68d6d188.svg": "/Guess-My-Age/static/media/baby-boy.68d6d188.svg",
+    "static/media/boy.4b3f8e3b.svg": "/Guess-My-Age/static/media/boy.4b3f8e3b.svg",
+    "static/media/grandfather.25f1ac22.svg": "/Guess-My-Age/static/media/grandfather.25f1ac22.svg",
+    "static/media/man.26d05a65.svg": "/Guess-My-Age/static/media/man.26d05a65.svg",
+    "static/media/question-mark.e3155c8f.svg": "/Guess-My-Age/static/media/question-mark.e3155c8f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7565ba0e.js",
+    "static/js/2.50f558b3.chunk.js",
+    "static/css/main.6ccb7d61.chunk.css",
+    "static/js/main.8b689719.chunk.js"
+  ]
+}
